@@ -3,5 +3,5 @@
 
 def parrot(word = "Squawk!")
   puts "#{word}"
-  "parrot"="pretty bird"
+  parrot=pretty bird
 end
